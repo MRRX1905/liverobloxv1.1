@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.rbxl
+*.rbxlx
+rojo.project.lock.json
